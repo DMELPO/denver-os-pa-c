@@ -661,3 +661,4 @@ static alloc_status _mem_sort_gap_ix(pool_mgr_pt pool_mgr) {
         }
     }
     return ALLOC_OK;
+}
